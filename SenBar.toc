@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: SenBar
+## Notes: Customizable health, power, swing and cast bars, combo points, cooldown and buff tracking, and shareable profiles. Type /sb for settings or /sbc for the tracker editor.
+## Author: Yurri
+## Version: 0.2.1
+## IconTexture: Interface\AddOns\SenBar\Textures\Icon.tga
+## SavedVariables: SenBarDB, YurriBarsDB, ForeverBarsDB
+
+SenBar.lua
