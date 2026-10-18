@@ -1,0 +1,14 @@
+SenBar - Fonts folder
+=====================
+Put your .ttf font files in this folder.
+
+SenBar loads this font automatically for the "Cervo Neue" text styles
+(Settings > Text > Text style):
+
+    Fonts\CervoNeueBlack.ttf
+
+To use another font, replace that file with your own .ttf and keep the same
+file name, then type /reload in game.
+If the file is missing, SenBar falls back to the default game font.
+
+Note: check the license of any font before you publish the addon.
